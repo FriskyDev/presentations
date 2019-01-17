@@ -20,7 +20,8 @@ Here are the links in the presentation. I pulled these out to make them clickabl
 
 Use -mod=vendor or GOFLAGS=-mod=vendor​
 
-[Non-vendored src caching ($GOPATH/pkg/mod)]​(https://groups.google.com/forum/#!msg/golang-dev/RjSj4bGSmsw/KMHhU8fmAwAJ)
+Non-vendored src caching ($GOPATH/pkg/mod)
+https://groups.google.com/forum/#!msg/golang-dev/RjSj4bGSmsw/KMHhU8fmAwAJ
 
 [“Always on” proxy repos (like Athens)](https://bit.ly/2Hfmegj)​
 

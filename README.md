@@ -3,7 +3,7 @@ Presentations I have given at various functions
 
 ## A Simple Introduction to Modules
 
-Demonstrates the new Go modules.
+Demonstrates the new Go modules. (see [Modules.md](Modules.md))
 
 ## MSBuild Basics
 

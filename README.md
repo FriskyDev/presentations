@@ -13,6 +13,6 @@ Old deck from Microsoft days showing the basics of the MSBuild build language.
 
 Basic object oriented design principles.
 
-## Git
+## Git – noob to woah dude
 
 Basic to advanced git presentation.
